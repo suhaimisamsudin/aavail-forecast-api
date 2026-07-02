@@ -1,7 +1,5 @@
 # aavail-forecast-api
 
-Still learning how to do this properly. Sorry for the terrible code. :-(
-
 Build a draft version of an API with train, predict, and logfile endpoints.
 Using Docker, bundle your API, model, and unit tests.
 Using test-driven development iterate on your API in a way that anticipates scale, load, and drift.
